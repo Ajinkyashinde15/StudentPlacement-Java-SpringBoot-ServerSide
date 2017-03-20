@@ -7,27 +7,27 @@ You can use Spring Boot to create stand-alone Java applications that can be star
 
 # Model Java Class(POJO class):
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/Pojo%20Obj.png "Model Java Class(POJO class)")
 
 # Controller class:
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/Controller.png "Controller Class")
 
 # application.properties file:
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/application.properties.png "Application.properties file")
 
 # Spring Boot extending CrudRepository:
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/repos.png "Spring Boot extending CrudRepository")
 
 # RESTApi web services output:-
 
 #Show all students:-
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/showall.png "Show all students in JSON format")
 
 #Show students with 1700001 student id:-
 
-![picture alt](https://github.com/Ajinkyashinde15/Student-CRUD-Using-Java-Hibernate-and-MySQL/blob/master/Student%20class.png "Student Model Java Class")
+![picture alt](https://github.com/Ajinkyashinde15/StudentPlacement-Java-SpringBoot-ServerSide/blob/master/imgs/show1.png "Show students with 1700001 student id in JSON format")
 
